@@ -3,7 +3,7 @@ coins:
     OMG: 6
     XRP: 0.3
     ETC: 25
-    BTC: 5000
+    BTC: 7500
     ETH: 400
     XMR: 60
     NEO: 2
@@ -13,6 +13,7 @@ coins:
     PPY: 5
     FCT: 50
     LKK: 0.1
+    ZEN: 20
   short:
     ICN: 1.25
     BTS: 0.4
