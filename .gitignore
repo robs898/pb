@@ -1,1 +1,3 @@
 coinsdb
+venv
+*.pyc
